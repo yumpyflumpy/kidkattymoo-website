@@ -1,42 +1,304 @@
-{"redirects": [
-{"source": "/book", "destination": "https://www.youtube.com/@KidKattyMoo", "permanent": false},
-{"source": "/book/", "destination": "https://www.youtube.com/@KidKattyMoo", "permanent": false},
-{"source": "/Book", "destination": "https://www.youtube.com/@KidKattyMoo", "permanent": false},
-{"source": "/BOOK", "destination": "https://www.youtube.com/@KidKattyMoo", "permanent": false},
-{"source": "/katty", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
-{"source": "/katty/", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
-{"source": "/Katty", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
-{"source": "/KATTY", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
-{"source": "/turkey", "destination": "https://youtu.be/kSZWTJ3nYrk", "permanent": false},
-{"source": "/turkey/", "destination": "https://youtu.be/kSZWTJ3nYrk", "permanent": false},
-{"source": "/Turkey", "destination": "https://youtu.be/kSZWTJ3nYrk", "permanent": false},
-{"source": "/TURKEY", "destination": "https://youtu.be/kSZWTJ3nYrk", "permanent": false},
-{"source": "/larry", "destination": "https://youtu.be/7yh4DFAkLMk", "permanent": false},
-{"source": "/larry/", "destination": "https://youtu.be/7yh4DFAkLMk", "permanent": false},
-{"source": "/Larry", "destination": "https://youtu.be/7yh4DFAkLMk", "permanent": false},
-{"source": "/LARRY", "destination": "https://youtu.be/7yh4DFAkLMk", "permanent": false},
-{"source": "/turtles", "destination": "https://youtu.be/nNpeAJot1UE", "permanent": false},
-{"source": "/turtles/", "destination": "https://youtu.be/nNpeAJot1UE", "permanent": false},
-{"source": "/Turtles", "destination": "https://youtu.be/nNpeAJot1UE", "permanent": false},
-{"source": "/TURTLES", "destination": "https://youtu.be/nNpeAJot1UE", "permanent": false},
-{"source": "/friends", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
-{"source": "/friends/", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
-{"source": "/Friends", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
-{"source": "/FRIENDS", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
-{"source": "/glow", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
-{"source": "/glow/", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
-{"source": "/Glow", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
-{"source": "/GLOW", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
-{"source": "/glow-youtube", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
-{"source": "/glow-youtube/", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
-{"source": "/Glow-youtube", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
-{"source": "/GLOW-YOUTUBE", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
-{"source": "/glow-spotify", "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p", "permanent": false},
-{"source": "/glow-spotify/", "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p", "permanent": false},
-{"source": "/Glow-spotify", "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p", "permanent": false},
-{"source": "/GLOW-SPOTIFY", "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p", "permanent": false},
-{"source": "/glow-apple", "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253", "permanent": false},
-{"source": "/glow-apple/", "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253", "permanent": false},
-{"source": "/Glow-apple", "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253", "permanent": false},
-{"source": "/GLOW-APPLE", "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253", "permanent": false}
-]}
+{
+  "redirects": [
+    {
+      "source": "/book",
+      "destination": "https://www.youtube.com/@KidKattyMoo",
+      "permanent": false
+    },
+    {
+      "source": "/book/",
+      "destination": "https://www.youtube.com/@KidKattyMoo",
+      "permanent": false
+    },
+    {
+      "source": "/Book",
+      "destination": "https://www.youtube.com/@KidKattyMoo",
+      "permanent": false
+    },
+    {
+      "source": "/Book/",
+      "destination": "https://www.youtube.com/@KidKattyMoo",
+      "permanent": false
+    },
+    {
+      "source": "/BOOK",
+      "destination": "https://www.youtube.com/@KidKattyMoo",
+      "permanent": false
+    },
+    {
+      "source": "/BOOK/",
+      "destination": "https://www.youtube.com/@KidKattyMoo",
+      "permanent": false
+    },
+    {
+      "source": "/katty",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/katty/",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/Katty",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/Katty/",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/KATTY",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/KATTY/",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/turkey",
+      "destination": "https://youtu.be/kSZWTJ3nYrk",
+      "permanent": false
+    },
+    {
+      "source": "/turkey/",
+      "destination": "https://youtu.be/kSZWTJ3nYrk",
+      "permanent": false
+    },
+    {
+      "source": "/Turkey",
+      "destination": "https://youtu.be/kSZWTJ3nYrk",
+      "permanent": false
+    },
+    {
+      "source": "/Turkey/",
+      "destination": "https://youtu.be/kSZWTJ3nYrk",
+      "permanent": false
+    },
+    {
+      "source": "/TURKEY",
+      "destination": "https://youtu.be/kSZWTJ3nYrk",
+      "permanent": false
+    },
+    {
+      "source": "/TURKEY/",
+      "destination": "https://youtu.be/kSZWTJ3nYrk",
+      "permanent": false
+    },
+    {
+      "source": "/larry",
+      "destination": "https://youtu.be/7yh4DFAkLMk",
+      "permanent": false
+    },
+    {
+      "source": "/larry/",
+      "destination": "https://youtu.be/7yh4DFAkLMk",
+      "permanent": false
+    },
+    {
+      "source": "/Larry",
+      "destination": "https://youtu.be/7yh4DFAkLMk",
+      "permanent": false
+    },
+    {
+      "source": "/Larry/",
+      "destination": "https://youtu.be/7yh4DFAkLMk",
+      "permanent": false
+    },
+    {
+      "source": "/LARRY",
+      "destination": "https://youtu.be/7yh4DFAkLMk",
+      "permanent": false
+    },
+    {
+      "source": "/LARRY/",
+      "destination": "https://youtu.be/7yh4DFAkLMk",
+      "permanent": false
+    },
+    {
+      "source": "/turtles",
+      "destination": "https://youtu.be/nNpeAJot1UE",
+      "permanent": false
+    },
+    {
+      "source": "/turtles/",
+      "destination": "https://youtu.be/nNpeAJot1UE",
+      "permanent": false
+    },
+    {
+      "source": "/Turtles",
+      "destination": "https://youtu.be/nNpeAJot1UE",
+      "permanent": false
+    },
+    {
+      "source": "/Turtles/",
+      "destination": "https://youtu.be/nNpeAJot1UE",
+      "permanent": false
+    },
+    {
+      "source": "/TURTLES",
+      "destination": "https://youtu.be/nNpeAJot1UE",
+      "permanent": false
+    },
+    {
+      "source": "/TURTLES/",
+      "destination": "https://youtu.be/nNpeAJot1UE",
+      "permanent": false
+    },
+    {
+      "source": "/friends",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/friends/",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/Friends",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/Friends/",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/FRIENDS",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/FRIENDS/",
+      "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg",
+      "permanent": false
+    },
+    {
+      "source": "/glow",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/glow/",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/Glow",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/Glow/",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW/",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/glow-youtube",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/glow-youtube/",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/Glow-youtube",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/Glow-youtube/",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW-YOUTUBE",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW-YOUTUBE/",
+      "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q",
+      "permanent": false
+    },
+    {
+      "source": "/glow-spotify",
+      "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p",
+      "permanent": false
+    },
+    {
+      "source": "/glow-spotify/",
+      "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p",
+      "permanent": false
+    },
+    {
+      "source": "/Glow-spotify",
+      "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p",
+      "permanent": false
+    },
+    {
+      "source": "/Glow-spotify/",
+      "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW-SPOTIFY",
+      "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW-SPOTIFY/",
+      "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p",
+      "permanent": false
+    },
+    {
+      "source": "/glow-apple",
+      "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253",
+      "permanent": false
+    },
+    {
+      "source": "/glow-apple/",
+      "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253",
+      "permanent": false
+    },
+    {
+      "source": "/Glow-apple",
+      "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253",
+      "permanent": false
+    },
+    {
+      "source": "/Glow-apple/",
+      "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW-APPLE",
+      "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW-APPLE/",
+      "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253",
+      "permanent": false
+    }
+  ]
+}
