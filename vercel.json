@@ -299,6 +299,306 @@
       "source": "/GLOW-APPLE/",
       "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253",
       "permanent": false
+    },
+    {
+      "source": "/glow1",
+      "destination": "https://www.youtube.com/watch?v=PNdoaoLzUfI&list=PLbv1jnk7sj4Q&index=1",
+      "permanent": false
+    },
+    {
+      "source": "/glow1/",
+      "destination": "https://www.youtube.com/watch?v=PNdoaoLzUfI&list=PLbv1jnk7sj4Q&index=1",
+      "permanent": false
+    },
+    {
+      "source": "/Glow1",
+      "destination": "https://www.youtube.com/watch?v=PNdoaoLzUfI&list=PLbv1jnk7sj4Q&index=1",
+      "permanent": false
+    },
+    {
+      "source": "/Glow1/",
+      "destination": "https://www.youtube.com/watch?v=PNdoaoLzUfI&list=PLbv1jnk7sj4Q&index=1",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW1",
+      "destination": "https://www.youtube.com/watch?v=PNdoaoLzUfI&list=PLbv1jnk7sj4Q&index=1",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW1/",
+      "destination": "https://www.youtube.com/watch?v=PNdoaoLzUfI&list=PLbv1jnk7sj4Q&index=1",
+      "permanent": false
+    },
+    {
+      "source": "/glow2",
+      "destination": "https://www.youtube.com/watch?v=_WRVa-92l_o&list=PLbv1jnk7sj4Q&index=2",
+      "permanent": false
+    },
+    {
+      "source": "/glow2/",
+      "destination": "https://www.youtube.com/watch?v=_WRVa-92l_o&list=PLbv1jnk7sj4Q&index=2",
+      "permanent": false
+    },
+    {
+      "source": "/Glow2",
+      "destination": "https://www.youtube.com/watch?v=_WRVa-92l_o&list=PLbv1jnk7sj4Q&index=2",
+      "permanent": false
+    },
+    {
+      "source": "/Glow2/",
+      "destination": "https://www.youtube.com/watch?v=_WRVa-92l_o&list=PLbv1jnk7sj4Q&index=2",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW2",
+      "destination": "https://www.youtube.com/watch?v=_WRVa-92l_o&list=PLbv1jnk7sj4Q&index=2",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW2/",
+      "destination": "https://www.youtube.com/watch?v=_WRVa-92l_o&list=PLbv1jnk7sj4Q&index=2",
+      "permanent": false
+    },
+    {
+      "source": "/glow3",
+      "destination": "https://www.youtube.com/watch?v=dUy_f9IS3j8&list=PLbv1jnk7sj4Q&index=4",
+      "permanent": false
+    },
+    {
+      "source": "/glow3/",
+      "destination": "https://www.youtube.com/watch?v=dUy_f9IS3j8&list=PLbv1jnk7sj4Q&index=4",
+      "permanent": false
+    },
+    {
+      "source": "/Glow3",
+      "destination": "https://www.youtube.com/watch?v=dUy_f9IS3j8&list=PLbv1jnk7sj4Q&index=4",
+      "permanent": false
+    },
+    {
+      "source": "/Glow3/",
+      "destination": "https://www.youtube.com/watch?v=dUy_f9IS3j8&list=PLbv1jnk7sj4Q&index=4",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW3",
+      "destination": "https://www.youtube.com/watch?v=dUy_f9IS3j8&list=PLbv1jnk7sj4Q&index=4",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW3/",
+      "destination": "https://www.youtube.com/watch?v=dUy_f9IS3j8&list=PLbv1jnk7sj4Q&index=4",
+      "permanent": false
+    },
+    {
+      "source": "/glow4",
+      "destination": "https://www.youtube.com/watch?v=OfD9vmALqgY&list=PLbv1jnk7sj4Q&index=6",
+      "permanent": false
+    },
+    {
+      "source": "/glow4/",
+      "destination": "https://www.youtube.com/watch?v=OfD9vmALqgY&list=PLbv1jnk7sj4Q&index=6",
+      "permanent": false
+    },
+    {
+      "source": "/Glow4",
+      "destination": "https://www.youtube.com/watch?v=OfD9vmALqgY&list=PLbv1jnk7sj4Q&index=6",
+      "permanent": false
+    },
+    {
+      "source": "/Glow4/",
+      "destination": "https://www.youtube.com/watch?v=OfD9vmALqgY&list=PLbv1jnk7sj4Q&index=6",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW4",
+      "destination": "https://www.youtube.com/watch?v=OfD9vmALqgY&list=PLbv1jnk7sj4Q&index=6",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW4/",
+      "destination": "https://www.youtube.com/watch?v=OfD9vmALqgY&list=PLbv1jnk7sj4Q&index=6",
+      "permanent": false
+    },
+    {
+      "source": "/glow5",
+      "destination": "https://www.youtube.com/watch?v=UJ9lSfQM3Vo&list=PLbv1jnk7sj4Q&index=8",
+      "permanent": false
+    },
+    {
+      "source": "/glow5/",
+      "destination": "https://www.youtube.com/watch?v=UJ9lSfQM3Vo&list=PLbv1jnk7sj4Q&index=8",
+      "permanent": false
+    },
+    {
+      "source": "/Glow5",
+      "destination": "https://www.youtube.com/watch?v=UJ9lSfQM3Vo&list=PLbv1jnk7sj4Q&index=8",
+      "permanent": false
+    },
+    {
+      "source": "/Glow5/",
+      "destination": "https://www.youtube.com/watch?v=UJ9lSfQM3Vo&list=PLbv1jnk7sj4Q&index=8",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW5",
+      "destination": "https://www.youtube.com/watch?v=UJ9lSfQM3Vo&list=PLbv1jnk7sj4Q&index=8",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW5/",
+      "destination": "https://www.youtube.com/watch?v=UJ9lSfQM3Vo&list=PLbv1jnk7sj4Q&index=8",
+      "permanent": false
+    },
+    {
+      "source": "/glow6",
+      "destination": "https://www.youtube.com/watch?v=mxfTneDHPxo&list=PLbv1jnk7sj4Q&index=10",
+      "permanent": false
+    },
+    {
+      "source": "/glow6/",
+      "destination": "https://www.youtube.com/watch?v=mxfTneDHPxo&list=PLbv1jnk7sj4Q&index=10",
+      "permanent": false
+    },
+    {
+      "source": "/Glow6",
+      "destination": "https://www.youtube.com/watch?v=mxfTneDHPxo&list=PLbv1jnk7sj4Q&index=10",
+      "permanent": false
+    },
+    {
+      "source": "/Glow6/",
+      "destination": "https://www.youtube.com/watch?v=mxfTneDHPxo&list=PLbv1jnk7sj4Q&index=10",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW6",
+      "destination": "https://www.youtube.com/watch?v=mxfTneDHPxo&list=PLbv1jnk7sj4Q&index=10",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW6/",
+      "destination": "https://www.youtube.com/watch?v=mxfTneDHPxo&list=PLbv1jnk7sj4Q&index=10",
+      "permanent": false
+    },
+    {
+      "source": "/glow7",
+      "destination": "https://www.youtube.com/watch?v=bH7VsVH3hMQ&list=PLbv1jnk7sj4Q&index=12",
+      "permanent": false
+    },
+    {
+      "source": "/glow7/",
+      "destination": "https://www.youtube.com/watch?v=bH7VsVH3hMQ&list=PLbv1jnk7sj4Q&index=12",
+      "permanent": false
+    },
+    {
+      "source": "/Glow7",
+      "destination": "https://www.youtube.com/watch?v=bH7VsVH3hMQ&list=PLbv1jnk7sj4Q&index=12",
+      "permanent": false
+    },
+    {
+      "source": "/Glow7/",
+      "destination": "https://www.youtube.com/watch?v=bH7VsVH3hMQ&list=PLbv1jnk7sj4Q&index=12",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW7",
+      "destination": "https://www.youtube.com/watch?v=bH7VsVH3hMQ&list=PLbv1jnk7sj4Q&index=12",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW7/",
+      "destination": "https://www.youtube.com/watch?v=bH7VsVH3hMQ&list=PLbv1jnk7sj4Q&index=12",
+      "permanent": false
+    },
+    {
+      "source": "/glow8",
+      "destination": "https://www.youtube.com/watch?v=uJZ_AWqYDS8&list=PLbv1jnk7sj4Q&index=14",
+      "permanent": false
+    },
+    {
+      "source": "/glow8/",
+      "destination": "https://www.youtube.com/watch?v=uJZ_AWqYDS8&list=PLbv1jnk7sj4Q&index=14",
+      "permanent": false
+    },
+    {
+      "source": "/Glow8",
+      "destination": "https://www.youtube.com/watch?v=uJZ_AWqYDS8&list=PLbv1jnk7sj4Q&index=14",
+      "permanent": false
+    },
+    {
+      "source": "/Glow8/",
+      "destination": "https://www.youtube.com/watch?v=uJZ_AWqYDS8&list=PLbv1jnk7sj4Q&index=14",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW8",
+      "destination": "https://www.youtube.com/watch?v=uJZ_AWqYDS8&list=PLbv1jnk7sj4Q&index=14",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW8/",
+      "destination": "https://www.youtube.com/watch?v=uJZ_AWqYDS8&list=PLbv1jnk7sj4Q&index=14",
+      "permanent": false
+    },
+    {
+      "source": "/glow9",
+      "destination": "https://www.youtube.com/watch?v=pxTo4UpIthM&list=PLbv1jnk7sj4Q&index=16",
+      "permanent": false
+    },
+    {
+      "source": "/glow9/",
+      "destination": "https://www.youtube.com/watch?v=pxTo4UpIthM&list=PLbv1jnk7sj4Q&index=16",
+      "permanent": false
+    },
+    {
+      "source": "/Glow9",
+      "destination": "https://www.youtube.com/watch?v=pxTo4UpIthM&list=PLbv1jnk7sj4Q&index=16",
+      "permanent": false
+    },
+    {
+      "source": "/Glow9/",
+      "destination": "https://www.youtube.com/watch?v=pxTo4UpIthM&list=PLbv1jnk7sj4Q&index=16",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW9",
+      "destination": "https://www.youtube.com/watch?v=pxTo4UpIthM&list=PLbv1jnk7sj4Q&index=16",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW9/",
+      "destination": "https://www.youtube.com/watch?v=pxTo4UpIthM&list=PLbv1jnk7sj4Q&index=16",
+      "permanent": false
+    },
+    {
+      "source": "/glow10",
+      "destination": "https://www.youtube.com/watch?v=2_XQ7RkKR2U&list=PLbv1jnk7sj4Q&index=18",
+      "permanent": false
+    },
+    {
+      "source": "/glow10/",
+      "destination": "https://www.youtube.com/watch?v=2_XQ7RkKR2U&list=PLbv1jnk7sj4Q&index=18",
+      "permanent": false
+    },
+    {
+      "source": "/Glow10",
+      "destination": "https://www.youtube.com/watch?v=2_XQ7RkKR2U&list=PLbv1jnk7sj4Q&index=18",
+      "permanent": false
+    },
+    {
+      "source": "/Glow10/",
+      "destination": "https://www.youtube.com/watch?v=2_XQ7RkKR2U&list=PLbv1jnk7sj4Q&index=18",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW10",
+      "destination": "https://www.youtube.com/watch?v=2_XQ7RkKR2U&list=PLbv1jnk7sj4Q&index=18",
+      "permanent": false
+    },
+    {
+      "source": "/GLOW10/",
+      "destination": "https://www.youtube.com/watch?v=2_XQ7RkKR2U&list=PLbv1jnk7sj4Q&index=18",
+      "permanent": false
     }
   ]
 }
