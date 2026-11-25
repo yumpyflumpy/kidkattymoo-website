@@ -22,5 +22,21 @@
 {"source": "/friends", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
 {"source": "/friends/", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
 {"source": "/Friends", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
-{"source": "/FRIENDS", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false}
+{"source": "/FRIENDS", "destination": "https://www.youtube.com/playlist?list=PLQXdpb_1zYrg", "permanent": false},
+{"source": "/glow", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
+{"source": "/glow/", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
+{"source": "/Glow", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
+{"source": "/GLOW", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
+{"source": "/glow-youtube", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
+{"source": "/glow-youtube/", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
+{"source": "/Glow-youtube", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
+{"source": "/GLOW-YOUTUBE", "destination": "https://www.youtube.com/playlist?list=PLbv1jnk7sj4Q", "permanent": false},
+{"source": "/glow-spotify", "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p", "permanent": false},
+{"source": "/glow-spotify/", "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p", "permanent": false},
+{"source": "/Glow-spotify", "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p", "permanent": false},
+{"source": "/GLOW-SPOTIFY", "destination": "https://open.spotify.com/album/2l6GuHre6icaZzEWew1r7p", "permanent": false},
+{"source": "/glow-apple", "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253", "permanent": false},
+{"source": "/glow-apple/", "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253", "permanent": false},
+{"source": "/Glow-apple", "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253", "permanent": false},
+{"source": "/GLOW-APPLE", "destination": "https://music.apple.com/gb/album/follow-the-glow-a-kid-katty-moo-christmas/6836261253", "permanent": false}
 ]}
